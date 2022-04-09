@@ -1,5 +1,5 @@
 
-import 'package:examtask/view/screens/home_screen.dart';
+import 'package:examtask/view/screens/current_screen.dart';
 import 'package:flutter/material.dart';
 
 class MyRouter extends Object {
