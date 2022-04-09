@@ -6,6 +6,7 @@ class MyTheme {
   static Color myIconsColor = const Color(0xffFFFFFF);
   static Color myContainerColor = const Color(0xff1E1E20);
   static Color myCoupleColor = const Color(0xff00A795);
+  static Color mySecondaryTextColor = const Color(0xff999999);
 
   //bottom Navigation Bar
   static Color selectedItemColor = const Color(0xffFFFFFF);
